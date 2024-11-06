@@ -1,0 +1,3 @@
+Item: laptop, Price: 18939.00, Quantity: 4, Cost: 75756.00
+
+The Total expenditure is Rs. 75756/-
